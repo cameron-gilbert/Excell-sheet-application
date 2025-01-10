@@ -1,0 +1,5 @@
+C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment/cmake-build-debug/CMakeFiles/model.dir
+C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment/cmake-build-debug/CMakeFiles/interactive.dir
+C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment/cmake-build-debug/CMakeFiles/testrunner.dir
+C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

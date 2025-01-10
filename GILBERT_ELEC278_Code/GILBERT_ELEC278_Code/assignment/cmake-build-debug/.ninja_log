@@ -1,0 +1,8 @@
+# ninja log v5
+18	154	7236197397187779	CMakeFiles/model.dir/model.c.obj	d5d80cdb36a3699d
+24	178	7236197397431313	CMakeFiles/interactive.dir/interface.c.obj	bf3502cabacad1c6
+25	4148	7233536450597567	CMakeFiles/testrunner.dir/tests.c.obj	580e6b7777b7d99a
+3	136	7234241283479335	CMakeFiles/testrunner.dir/testrunner.c.obj	6215aa0c1bdeddf2
+397	618	7235546794640082	testrunner.exe	bf6b1ddbc51b184f
+178	334	7236197398916064	interactive.exe	ba52b2f8c8594392
+1	245	7387336045530721	CMakeFiles/model.dir/model.c.obj	c139a4ee01e7c594

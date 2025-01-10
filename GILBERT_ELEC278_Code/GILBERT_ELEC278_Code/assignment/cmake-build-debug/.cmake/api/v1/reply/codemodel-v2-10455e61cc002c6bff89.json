@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "interactive::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interactive-Debug-258f8c77d55d4641f8ae.json",
+					"name" : "interactive",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "model::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-model-Debug-a20d00283bfc00d71799.json",
+					"name" : "model",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testrunner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testrunner-Debug-c700cc93b91c1422dabc.json",
+					"name" : "testrunner",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment/cmake-build-debug",
+		"source" : "C:/Users/Cameron/Downloads/GILBERT_ELEC278_Code/GILBERT_ELEC278_Code/assignment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
